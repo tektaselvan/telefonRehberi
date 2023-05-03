@@ -1,0 +1,14 @@
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\bin\Debug\netcoreapp3.1\telefonRehberi.exe
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\bin\Debug\netcoreapp3.1\telefonRehberi.deps.json
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\bin\Debug\netcoreapp3.1\telefonRehberi.runtimeconfig.json
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\bin\Debug\netcoreapp3.1\telefonRehberi.runtimeconfig.dev.json
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\bin\Debug\netcoreapp3.1\telefonRehberi.dll
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\bin\Debug\netcoreapp3.1\telefonRehberi.pdb
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\obj\Debug\netcoreapp3.1\telefonRehberi.csproj.AssemblyReference.cache
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\obj\Debug\netcoreapp3.1\telefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\obj\Debug\netcoreapp3.1\telefonRehberi.AssemblyInfoInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\obj\Debug\netcoreapp3.1\telefonRehberi.AssemblyInfo.cs
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\obj\Debug\netcoreapp3.1\telefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\obj\Debug\netcoreapp3.1\telefonRehberi.dll
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\obj\Debug\netcoreapp3.1\telefonRehberi.pdb
+C:\Users\tekta\OneDrive\Masaüstü\telefonRehberi\obj\Debug\netcoreapp3.1\telefonRehberi.genruntimeconfig.cache
